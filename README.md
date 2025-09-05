@@ -28,7 +28,3 @@ It simulates a real-world **Barclays-style Data Analyst project**, showcasing ho
   - Amount vs anomaly score scatter plot  
 
  
-
----
-
-## 📂 Project Structure
